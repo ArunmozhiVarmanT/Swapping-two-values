@@ -19,7 +19,7 @@ Print both the values it would be interchanged
 End the program
 ## PROGRAM:
 # Program to swap two values.
-~~~~~~
+```python
 #Developed by: ARUNMOZHI VARMAN T
 #RegisterNumber:23002304
 def swap (a,b):
@@ -30,10 +30,10 @@ def swap (a,b):
 a=input()
 b=input()
 swap(a,b)
-~~~~~~
+```
 
 ## OUTPUT
-![OUTPUT](<Screenshot 2023-10-20 091645.png>)
+![OUTPUT](Swapping.png)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
